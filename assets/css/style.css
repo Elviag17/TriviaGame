@@ -1,0 +1,40 @@
+
+body {background-image: url("../../assets/images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container{
+    border: solid;
+    width: 70%;
+    height: auto;
+    text-align: center;
+    
+}
+
+.btn{
+    width : 100%;
+}
+
+.btn:hover{background-color: lightgray}
+
+
+.button{
+    width:55%;
+    height: 100px;
+    margin-bottom: 100px;
+    margin-top:20px;
+    background-color: #ffffe6;
+}
+
+.submit{
+    width:100px;
+    height: 40px;
+    margin: 50px;
+}
+
+h1 , h4 , h2, p{
+    color:black
+}
+
